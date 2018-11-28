@@ -37,7 +37,7 @@ namespace Summary2811
             // break continue
             int number = 0;
             int sumGrade = 0;
-            s
+            
             {
                 number = int.Parse(Console.ReadLine()); // Convert.ToInt32
 
