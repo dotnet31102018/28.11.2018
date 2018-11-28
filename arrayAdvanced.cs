@@ -28,7 +28,9 @@ namespace _2811today
                  new int[] {0,1,2}, // 0
                  new int[] {3,4,5}, // 1
                  new int[] {6,7,8,9} // 2
-                };            Console.WriteLine( matrixJagged[0][2] ); // array number 0 , element at index 2 
+                };
+            
+            Console.WriteLine( matrixJagged[0][2] ); // array number 0 , element at index 2 
 
             for (int i = 0; i < matrix.GetLength(0); i++) // run on all rows
             {
